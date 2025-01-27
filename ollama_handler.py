@@ -2,7 +2,6 @@ import ollama
 from ollama_output_helepers import print_chunk_text as print_chunk
 from chromadb_handler import ChromadbHandler
 from tool_handler import ToolHandler
-import spacy
 
 
 

@@ -9,7 +9,6 @@ import nltk
 from nltk.chunk import ne_chunk
 from nltk import Tree
 import string
-import spacy
 import re
 from termcolor import colored
 
